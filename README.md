@@ -114,6 +114,7 @@
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/65176da6-4263-4a54-ba05-69645ef96eea" />
 
+----
 
 **Make**
 
@@ -123,8 +124,6 @@
 ---
 
 
-
----
 ### 📊 비교 분석표
 
 | 비교 항목 | n8n | Make |
