@@ -108,6 +108,17 @@
 - **도구 A**: n8n (오픈소스 자동화 플랫폼)
 - **도구 B**: Make (구 Integromat)
 
+
+ **n8n**
+ 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/770c2192-bc5b-4e13-b23c-8e3732932237" />
+
+
+  **make**
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/62015b8b-b0c5-4639-a15d-3bf5e1cb6001" />
+
+---
 ### 📊 비교 분석표
 
 | 비교 항목 | n8n | Make |
