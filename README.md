@@ -109,12 +109,15 @@
 - **도구 B**: Make (구 Integromat)
 
 ---
-n8n
+**n8n**
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/65176da6-4263-4a54-ba05-69645ef96eea" />
 
-Make
+**Make**
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e378ad32-8956-4777-9aec-3b9d1b62fad3" />
 
+---
 
 
 
