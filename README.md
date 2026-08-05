@@ -204,9 +204,8 @@ RSS 수집부터 AI 분석, 라우터를 거쳐 최종 전송되기까지의 데
 4) 한 마디로 눈으로 확인하기 쉽고, 비전문가도 사용, 수정, 관리 하기 쉬움.
 ---
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/117e6288-d95d-4841-b7fb-da22b30158ac" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f439fc7b-1770-4c12-a42b-2ffedca0e6a2" />
 
----
 ## 6. 단계별 역할
 1. RSS (Watch RSS feed items): 워크플로우를 시작하는 트리거(Trigger)
 
