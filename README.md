@@ -204,7 +204,20 @@ RSS 수집부터 AI 분석, 라우터를 거쳐 최종 전송되기까지의 데
 4) 한 마디로 눈으로 확인하기 쉽고, 비전문가도 사용, 수정, 관리 하기 쉬움.
 ---
 
-## 6. 핵심 개념 정리
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/117e6288-d95d-4841-b7fb-da22b30158ac" />
+
+---
+## 6. 단계별 역할
+1. RSS (Watch RSS feed items): 워크플로우를 시작하는 트리거(Trigger)
+
+2. Tools (Text aggregator): 이전 단계(RSS)에서 가져온 여러 데이터나 텍스트 요소들을 하나의 완성된 글이나 프롬프트 형태로 묶어 다음 단계로 전달
+
+3. Google Gemini AI (Generate a response): 구글의 인공지능(AI)을 활용한 데이터 처리 단계로 필터링 된 주식관련 뉴스 3줄 요약
+
+4. Router: 데이터의 경로를 나누어주는 분기점- Action 1 Google Sheets (Add a Row) — 주식관련 뉴스 요약을 지정된 구글 시트 파일에 새로운 행(Row)을 추가하여 내용을 저장(아카이빙)
+                                           Action 2 Gmail (Send an email) —  AI가 작성한 내용이나 요약본을 지정된 수신자의 지메일로 전송합니다.
+
+## 7. 핵심 개념 정리
 
 ### Trigger (트리거)
 > 워크플로우를 **시작시키는 이벤트**
